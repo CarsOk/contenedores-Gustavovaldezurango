@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.contenedores">
+    package="com.example.menulateral">
    <application
-        android:label="contenedores"
+        android:label="menulateral"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

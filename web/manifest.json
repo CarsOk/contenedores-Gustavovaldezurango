@@ -1,6 +1,6 @@
 {
-    "name": "contenedores",
-    "short_name": "contenedores",
+    "name": "menulateral",
+    "short_name": "menulateral",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

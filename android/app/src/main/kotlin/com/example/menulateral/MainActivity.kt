@@ -1,4 +1,4 @@
-package com.example.valdez0001
+package com.example.menulateral
 
 import io.flutter.embedding.android.FlutterActivity
 

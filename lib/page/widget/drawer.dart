@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../post.dart';
-
 class MenuDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -22,16 +20,11 @@ class MenuDrawer extends StatelessWidget {
           child: Column(
             children: [
               ListTile(
-                  title: Text(
-                    "formulario",
-                    style: TextStyle(color: Colors.black),
-                  ),
-                  onTap: () {
-                    Navigator.of(context).pop(Navigator.of(context).push(
-                      MaterialPageRoute(
-                          builder: (BuildContext context) => Pos()),
-                    ));
-                  }),
+                title: Text(
+                  "formulario",
+                  style: TextStyle(color: Colors.black),
+                ),
+              ),
               ListTile(
                 title: Text(
                   "listas de trabajadores",
